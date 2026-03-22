@@ -1,7 +1,7 @@
 # AML Transaction Monitoring Project
 
 This project simulates a financial transaction monitoring system used in AML (Anti-Money Laundering).  
-In this project i want to demonstrates practical knowledge of transaction monitoring, risk scoring, and detection of suspicious activity.
+In this project i want to demonstrate practical knowledge of transaction monitoring, risk scoring, and detection of suspicious activity.
 
 - OBJECTIVE -
 The goal of this project is to:
