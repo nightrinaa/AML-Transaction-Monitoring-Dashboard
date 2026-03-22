@@ -499,3 +499,4 @@ d752ae8f-7,9a7bd8ea,16241,withdrawal,online,SY,2026-02-26 20:15:56.028071,False,
 936c94e1-7,7221379d,16659,crypto,online,FR,2025-04-23 20:15:56.028120,False,True,True,False,False,False,False,AF,False,2025-03-20 20:15:56.020440,False,110,True,"high cash, large transfer",High,2025-04-23
 e1e45ad4-7,4c10fbc4,13030,crypto,branch,RU,2026-01-04 20:15:56.028126,False,True,True,False,True,False,False,IR,False,2024-07-16 20:15:56.020261,True,175,True,"high cash, large transfer, high risk country",High,2026-01-04
 4ec4ab4c-5,d2c0b25d,5091,transfer,branch,NL,2025-04-24 20:15:56.028131,False,True,False,False,False,False,False,IT,False,2024-04-14 20:15:56.020461,False,25,False,high cash,Low,2025-04-24
+
